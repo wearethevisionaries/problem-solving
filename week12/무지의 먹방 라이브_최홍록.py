@@ -17,3 +17,4 @@ def solution(food_times, k):
             j=(j+1)%leng
         else:
             return j%leng+1
+
