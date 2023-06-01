@@ -16,3 +16,9 @@
 
 - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
 - [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)
+
+
+### Week 13
+
+- [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+- [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
