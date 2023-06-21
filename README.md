@@ -35,7 +35,7 @@
 - [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
 - [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
 
-### Week 15
+### Week 16
 
 - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
 - [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
