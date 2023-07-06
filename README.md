@@ -39,3 +39,8 @@
 
 - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
 - [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
+
+### Week 18
+
+- [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)
+- [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
